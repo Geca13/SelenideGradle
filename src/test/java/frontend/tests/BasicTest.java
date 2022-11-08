@@ -65,6 +65,7 @@ public class BasicTest {
 
     @Test
     @Order(4)
+
     void isAtHomePage() {
 
         home.openHomePage();
